@@ -22,6 +22,7 @@ gem 'turbolinks', '~> 5'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'simple_form'
+gem 'faker'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
